@@ -5,6 +5,8 @@ const Home: React.FC = () => {
       <button className="border px-3 py-1 text-lg mt-3 bg-blue-500 text-white rounded-full">
         Get Started
       </button>
+      <div className="bg-blue-500">let's get it down!</div>
+      <a href="/www.fzmovie.com" target="blank">tap</a>
     </main>
   );
 };
